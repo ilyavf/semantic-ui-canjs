@@ -12,9 +12,11 @@
   },
   "keywords": [
     "SemanticUI",
+    "semantic-ui",
     "Can",
     "CanJS",
-    "Popup"
+    "Popup",
+    "Accordion"
   ],
   "author": "Ilya Fadeev",
   "license": "MIT",
